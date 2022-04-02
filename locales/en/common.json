@@ -1,0 +1,11 @@
+{
+  "title": "Welcome to Next.js!",
+  "home":"home",
+  "about": "About",
+  "contact":"Contact",
+  "nav_bangla":"বাংলা",
+  "nav_eng":"English"  ,
+  "nav_arabic":"عربي",
+  "nav_products":"Products",
+    "Language":"Language"
+}
